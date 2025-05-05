@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Raw data
+inputs/envdata/baseline/raw/*
+inputs/envdata/future/raw/*
+inputs/occdata/raw/*
+inputs/occdata/processed/fulldb_*
+
+# Plots
+outputs/plots/*
+
