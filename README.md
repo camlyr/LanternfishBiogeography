@@ -1,6 +1,8 @@
 # Biogeographical regions and climate change: lanternfishes shed light on the role of climatic barriers in the Southern Ocean
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15341993.svg)](https://doi.org/10.5281/zenodo.15341993)
+
 This repository contains all the data and code supporting the study. 
 
 
